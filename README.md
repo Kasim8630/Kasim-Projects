@@ -1,5 +1,5 @@
 # Projects
-It cointains various projects based on - Python | Data Science | Machine Learning.
+It cointains various projects based on - Python | Data Science | Machine Learning | Natural Language Processing.
 
 Find Me On :
 
