@@ -1,5 +1,5 @@
 # Projects
-It cointains various projects based on - Python | Data Science | Machine Learning | Natural Language Processing | Deep Learning | Game Development.
+It cointains various projects based on - Python | Data Science | Machine Learning | Natural Language Processing | Deep Learning | Game Development | GUI Application Development.
 
 Find Me On :
 
